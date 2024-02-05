@@ -11,4 +11,7 @@ public class catiplier140 {
 		}
 	
 
+		int get_moves() {
+			return moves;
+		}
 }
